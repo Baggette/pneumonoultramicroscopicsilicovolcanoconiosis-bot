@@ -1,0 +1,23 @@
+{
+  "name": "pneumonoultramicroscopicsilicovolcanoconiosis-bot",
+  "version": "1.0.0",
+  "description": "pneumonoultramicroscopicsilicovolcanoconiosis",
+  "main": "pneumonoultramicroscopicsilicovolcanoconiosis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baggette/pneumonoultramicroscopicsilicovolcanoconiosis-bot.git"
+  },
+  "author": "Baggette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baggette/pneumonoultramicroscopicsilicovolcanoconiosis-bot/issues"
+  },
+  "homepage": "https://github.com/Baggette/pneumonoultramicroscopicsilicovolcanoconiosis-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
